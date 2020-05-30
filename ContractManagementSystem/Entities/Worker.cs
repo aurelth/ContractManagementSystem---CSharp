@@ -46,7 +46,6 @@ namespace ContractManagementSystem.Entities
                     sum += contract.TotalValue();
                 }
             }
-
             return sum;            
         }
     }
